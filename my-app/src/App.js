@@ -1,8 +1,9 @@
 import './App.css';
+import Leftside from "./Leftside";
 
 function App() {
   return (
-    <div></div>
+    <Leftside />
   );
 }
 
